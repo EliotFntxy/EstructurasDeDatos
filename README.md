@@ -1,8 +1,13 @@
-# EstructurasDeDatos
-Proyecto
-Nombre de proyecto:
-Integrantes:
-Juarez Garcia Eliot Said
-Vargas Manilla Eric
-Descripcion:
+# Estructuras De Datos
+
+## Proyecto
+
+## Nombre de proyecto
+
+
+# Integrantes
+* Juarez Garcia Eliot Said
+* Vargas Manilla Eric
+
+# Descripcion:
 En proceso...
