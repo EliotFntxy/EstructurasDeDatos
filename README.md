@@ -2,7 +2,9 @@
 
 ## Proyecto
 
-## Nombre de proyecto
+## Nombre de proyecto 
+Agenda Personal
+
 
 
 # Integrantes
@@ -10,4 +12,4 @@
 * Vargas Manilla Eric
 
 # Descripcion:
-En proceso...
+El proyecto consiste en realizar una agenda personal que nos permita agregar,modificar, imprimir, buscar y borrar ,de personas,implementando  la estructura lista doblemente enlazada.
