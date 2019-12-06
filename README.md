@@ -3,7 +3,7 @@
 ## Proyecto
 
 ## Nombre de proyecto 
-Agenda Personal
+Adivinador
 
 
 
@@ -12,4 +12,6 @@ Agenda Personal
 * Vargas Manilla Eric
 
 # Descripcion:
-El proyecto consiste en realizar una agenda personal que nos permita agregar,modificar, imprimir, buscar y borrar ,de personas,implementando  la estructura lista doblemente enlazada.
+DESARROLLO: IMPLEMENTAR UN PROGRAMA QUE ADIVINE LO QUE UN USUARIO ESTA PENSANDO A TRAVES DE UN ARBOL BINARIO. EL PROGRAMA IRA APRENDIEDNO
+CADA VEZ QUE ESTE NO ADIVINE ALGO, APRENDERA A RECONOCER LAS DIFERENCIAS Y RECORRERA EL ARBOL A TRAVES DE RESPUESTAS
+BINARIAS (s/n)
