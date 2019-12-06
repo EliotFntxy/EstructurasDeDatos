@@ -1,0 +1,3 @@
+/Escuela del IPN
+Es fisco-matematica:ESCOM,Es medico-biologica
+Es medico-biologica:ENCB,ESCA
